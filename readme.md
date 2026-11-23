@@ -49,34 +49,34 @@ In order to get started working with SQL, you will need to install a couple of p
 
 This section of the document covers the basics of each chapter we will cover. You can click on the heading to get redirected to the next page.
 
-### 1. [Introduction to Databases and its Terminology]()
+### 1. [Introduction to Databases and its Terminology](./01-Introduction/readme.md)
 
 This section of the course will teach you what databases actually are, the terminology behind them, how and why they work, and why they exist. This is the most tehnical section of the course, so you will have to come back to it to refresh your memory.
 
-### 2. [Database Creation]()
+### 2. [Database Creation](./02-DBCreation/readme.md)
 
 This section of the course is short and simple. It follows the set up of a database system and what the database we will use will look like.
 
-### 3. [SELECT Queries]()
+### 3. [SELECT Queries](./03-SELECT/readme.md)
 
 This section of the course is short, and covers how to retrieve data from databases.
 
-### 4. [UPDATE Queries]()
+### 4. [UPDATE Queries](./04-UPDATE/readme.md)
 
 This section of the course covers how to update data from databases.
 
-### 5. [INSERT Queries]()
+### 5. [INSERT Queries](./05-INSERT/readme.md)
 
 This section of the course covers how to add data to databases.
 
-### 6. [DELETE Queries]()
+### 6. [DELETE Queries](./06-DELETE/readme.md)
 
 This section of the course covers how to delete data from databases, and how to do it SAFELY.
 
-### 7. [Complex Queries]()
+### 7. [Complex Queries](./07-ComplexQueries/readme.md)
 
 This section of the course covers how to do complex queries, like SUM, DISTINCT, MAX. These queries
 
-### 8. [Join Tables]()
+### 8. [Join Tables](./08-JOIN_TABLE/readme.md)
 
 In order to query more complex databases, you may have to use Join Tables. Join tables are really useful for extracting useful data quickly, but are tehnically more heavy. If you understand Join Tables, you understand SQL.

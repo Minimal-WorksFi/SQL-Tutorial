@@ -80,3 +80,11 @@ This section of the course covers how to do complex queries, like SUM, DISTINCT,
 ### 8. [Join Tables](./08-JOIN_TABLE/readme.md)
 
 In order to query more complex databases, you may have to use Join Tables. Join tables are really useful for extracting useful data quickly, but are tehnically more heavy. If you understand Join Tables, you understand SQL.
+
+## AI Disclosure
+
+In case it isn't obvious, this is all written by hand. In your work life, you may be allowed to use AI, but here, I advise you do not. If you need help send me a message and I'll answer as soon as possible, and if I'm not available, look up regular searches on the internet (No AI), or inside SQL documentation.
+
+It is important that in the early days of your SQL learning you focus on actually understanding how SQL works rather than getting the right answer. Failure is okay, refusal to learn is not.
+
+I hope you find this course useful.

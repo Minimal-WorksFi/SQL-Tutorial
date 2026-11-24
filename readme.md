@@ -39,9 +39,9 @@ I am not a professional teacher in any way. I have tutored before (free of charg
 
 In order to get started working with SQL, you will need to install a couple of programs. There are a lot of SQL tools you can use; this course will teach you how to use PostgreSQL and its associated tools (as I work with it). Keep in mind that there's other SQL languages available, but that the differences between them can be negligable, as you are not a developer.
 
-**1. [PostgreSQL Engine](https://www.postgresql.org/)** - This is the actual DB Engine. We will discuss this in the first chapter
+**1. [PostgreSQL Engine](https://www.postgresql.org/)** - This is the actual DB Engine. We will discuss this in chapter 2
 
-**2. [pgAdmin](https://www.pgadmin.org/)** - This is the DB Management tool. We will discuss this in chapter 1.
+**2. [pgAdmin](https://www.pgadmin.org/)** - This is the DB Management tool. We will discuss this in chapter 2.
 
 **3. Any markdown viewer.** [Here](https://github.com/pbek/QOwnNotes) is an example of a markdown reader
 
